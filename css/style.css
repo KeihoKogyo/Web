@@ -308,18 +308,18 @@ P {
   }
   li a.current {
     background: #ffa500;
-    color: #ffff!important;
+    color: #000000!important;
   }
   li a.selected {
     background: #ffa500;
-    color: #ffff!important;
+    color: #000000!important;
   }
   li a.active {
     background: #ffa500;
-    color: #ffff!important;
+    color: #000000!important;
   }
   li a.choice {
     background: #ffa500;
-    color: #ffff!important;
+    color: #000000!important;
   }
 }
