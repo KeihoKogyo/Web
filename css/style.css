@@ -193,10 +193,7 @@ P {
 
   }
 
-  li a.selected {
-    background: #ffa500;
-    color: #ffff;
-  }
+  
 
   .menu-btn {
     position: fixed;
@@ -308,5 +305,21 @@ P {
   .home{
     text-align: 150%;
     font-size: 14px;
+  }
+  li a.current {
+    background: #ffa500;
+    color: #ffff!important;
+  }
+  li a.selected {
+    background: #ffa500;
+    color: #ffff!important;
+  }
+  li a.active {
+    background: #ffa500;
+    color: #ffff!important;
+  }
+  li a.choice {
+    background: #ffa500;
+    color: #ffff!important;
   }
 }
