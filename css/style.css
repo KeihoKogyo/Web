@@ -158,7 +158,9 @@ P {
     font-size: 40px;
     font-family: 'M PLUS 1 Code', sans-serif;
     width:80%;
+    position:relative;right: 10%;
   }
+
   .yugen{
     font-size: 20px;
     font-family: 'M PLUS 1 Code', sans-serif;
