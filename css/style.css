@@ -10,10 +10,15 @@ body {
 }
 
 h1 {
+  display: inline;
   text-align: center;
-  font-size: 86px;
-  font-family: 'Yuji Boku', serif;
+  font-size: 100px;
+  font-family: 'M PLUS 1 Code', sans-serif;
 
+}
+.yugen{
+  font-size: 65px;
+  font-family: 'M PLUS 1 Code', sans-serif;
 }
 
 h3 {
@@ -148,11 +153,15 @@ P {
   }
 
   h1 {
+    display: inline;
     text-align: center;
-    font-size: 25px;
-    font-family: 'Yuji Boku', serif;
-    width: 80%;
-
+    font-size: 40px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    width:80%;
+  }
+  .yugen{
+    font-size: 20px;
+    font-family: 'M PLUS 1 Code', sans-serif;
   }
 
   h2 {
@@ -160,15 +169,13 @@ P {
     text-align: end;
     font-size: 15px;
     width: 95%;
-    font-family: 'Yuji Boku', serif;
-    font-family: 'Zen Antique', serif;
+    font-family: 'M PLUS 1 Code', sans-serif;
   }
 
   h3 {
     display: flex;
     text-align: center;
-    font-family: 'Yuji Boku', serif;
-    font-family: 'Zen Antique', serif;
+    font-family: 'M PLUS 1 Code', sans-serif;
   }
 
   header {
@@ -299,10 +306,12 @@ P {
   }
 
   p {
+    font-family: 'M PLUS 1 Code', sans-serif;
     text-align: 150%;
     font-size: 14px;
   }
   .home{
+    font-family: 'M PLUS 1 Code', sans-serif;
     text-align: 150%;
     font-size: 14px;
   }
