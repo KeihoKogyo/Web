@@ -144,6 +144,11 @@ input[type=checkbox]:checked~#menu {
   font-family: 'M PLUS 1 Code', sans-serif;
   text-align: right;
 }
+.nm{
+  font-size: 32px;
+  font-family: 'M PLUS 1 Code', sans-serif;
+  text-align: left;
+}
 P {
   line-height: 150%;
   font-size: 25px;
@@ -152,7 +157,7 @@ P {
 }
 .home{
   line-height: 150%;
-  font-size: 25px;
+  font-size: 35px;
   font-family: 'M PLUS 1 Code', sans-serif;
   text-align: center;
 }
@@ -323,6 +328,11 @@ P {
     font-size: 14px;
     font-family: 'M PLUS 1 Code', sans-serif;
     text-align: right;
+  }
+  .nm{
+    font-size: 20px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    text-align: left;
   }
   p {
     font-family: 'M PLUS 1 Code', sans-serif;
