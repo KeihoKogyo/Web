@@ -129,19 +129,26 @@ input[type=checkbox] {
 input[type=checkbox]:checked~#menu {
   display: flex;
 }
-
+.kouji{
+  font-size: 35px;
+  font-family: 'M PLUS 1 Code', sans-serif;
+  font-weight: normal;
+}
+.all{
+  font-size: 40px;
+  font-family: 'M PLUS 1 Code', sans-serif;
+  font-weight: bolder;
+}
 P {
   line-height: 150%;
   font-size: 25px;
-  font-family: 'Yuji Boku', serif;
-  font-family: 'Zen Antique', serif;
+  font-family: 'M PLUS 1 Code', sans-serif;
   text-align: left;
 }
 .home{
   line-height: 150%;
   font-size: 25px;
-  font-family: 'Yuji Boku', serif;
-  font-family: 'Zen Antique', serif;
+  font-family: 'M PLUS 1 Code', sans-serif;
   text-align: center;
 }
 
@@ -162,7 +169,7 @@ P {
   }
 
   .yugen{
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'M PLUS 1 Code', sans-serif;
   }
 
@@ -176,6 +183,7 @@ P {
 
   h3 {
     display: flex;
+    font-size: 20px;
     text-align: center;
     font-family: 'M PLUS 1 Code', sans-serif;
   }
@@ -306,7 +314,16 @@ P {
     left: 0;
     /*メニューを画面内へ*/
   }
-
+  .kouji{
+    font-size: 15px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    font-weight: normal;
+  }
+  .all{
+    font-size: 15px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    font-weight: bolder;
+  }
   p {
     font-family: 'M PLUS 1 Code', sans-serif;
     text-align: 150%;
