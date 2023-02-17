@@ -314,16 +314,7 @@ P {
     left: 0;
     /*メニューを画面内へ*/
   }
-  .kouji{
-    font-size: 15px;
-    font-family: 'M PLUS 1 Code', sans-serif;
-    font-weight: normal;
-  }
-  .all{
-    font-size: 15px;
-    font-family: 'M PLUS 1 Code', sans-serif;
-    font-weight: bolder;
-  }
+
   p {
     font-family: 'M PLUS 1 Code', sans-serif;
     text-align: 150%;
@@ -334,6 +325,20 @@ P {
     text-align: 150%;
     font-size: 14px;
   }
+  .kouji{
+    font-size: 15px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    font-weight: normal;
+  }
+  .all{
+    font-size: 15px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    font-weight: bolder;
+  }
+  .sub{
+    font-size: 10px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    }
   li a.current {
     background: #ffa500;
     color: #000000!important;
