@@ -324,6 +324,7 @@ P {
     left: 0;
     /*メニューを画面内へ*/
   }
+  /*文字スタイル変更*/
   .kyoka{
     font-size: 14px;
     font-family: 'M PLUS 1 Code', sans-serif;
@@ -342,7 +343,7 @@ P {
   .home{
     font-family: 'M PLUS 1 Code', sans-serif;
     text-align: 150%;
-    font-size: 14px;
+    font-size: 18px;
   }
   .kouji{
     font-size: 15px;
@@ -358,6 +359,7 @@ P {
     font-size: 10px;
     font-family: 'M PLUS 1 Code', sans-serif;
     }
+  /*ハンバーガーメニュー選択中の色が反映されないから下に追加*/
   li a.current {
     background: #ffa500;
     color: #000000!important;
