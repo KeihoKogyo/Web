@@ -139,6 +139,11 @@ input[type=checkbox]:checked~#menu {
   font-family: 'M PLUS 1 Code', sans-serif;
   font-weight: bolder;
 }
+.kyoka{
+  font-size: 25px;
+  font-family: 'M PLUS 1 Code', sans-serif;
+  text-align: right;
+}
 P {
   line-height: 150%;
   font-size: 25px;
@@ -314,7 +319,11 @@ P {
     left: 0;
     /*メニューを画面内へ*/
   }
-
+  .kyoka{
+    font-size: 14px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    text-align: right;
+  }
   p {
     font-family: 'M PLUS 1 Code', sans-serif;
     text-align: 150%;
