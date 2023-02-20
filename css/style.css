@@ -16,6 +16,7 @@ h1 {
   font-family: 'M PLUS 1 Code', sans-serif;
 
 }
+
 .yugen{
   font-size: 65px;
   font-family: 'M PLUS 1 Code', sans-serif;
@@ -129,32 +130,38 @@ input[type=checkbox] {
 input[type=checkbox]:checked~#menu {
   display: flex;
 }
+
 .kouji{
   font-size: 35px;
   font-family: 'M PLUS 1 Code', sans-serif;
   font-weight: normal;
 }
+
 .all{
   font-size: 40px;
   font-family: 'M PLUS 1 Code', sans-serif;
   font-weight: bolder;
 }
+
 .kyoka{
   font-size: 25px;
   font-family: 'M PLUS 1 Code', sans-serif;
   text-align: right;
 }
+
 .nm{
   font-size: 32px;
   font-family: 'M PLUS 1 Code', sans-serif;
   text-align: left;
 }
+
 P {
   line-height: 150%;
   font-size: 25px;
   font-family: 'M PLUS 1 Code', sans-serif;
   text-align: left;
 }
+
 .home{
   line-height: 150%;
   font-size: 35px;
@@ -219,8 +226,6 @@ P {
     list-style-type: none;
 
   }
-
-  
 
   .menu-btn {
     position: fixed;
